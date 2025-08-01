@@ -1,0 +1,14 @@
+AUTOAI EXPERIMENT LOG FILE
+
+-  Date: 8/1/2025
+-  Submitted time: 6:52:08 PM
+-  End time: 
+-  Time elapsed: 2 minutes
+
+-  Experiment name: Churn_Prediction_AutoAi
+-  Data source: WA_Fn-UseC_-Telco-Customer-Churn.csv
+-  Experiment asset: 31a93883-b2b0-44f8-aef8-e92ada29b478
+-  Watson Machine Learning training ID: 112e8b4b-0cf6-4fa3-ad8e-4816496a82e3
+
+   8/1/2025, 6:52:13 PM   
+INFO   8/1/2025, 6:52:57 PM   Setting default preprocessor parameters
